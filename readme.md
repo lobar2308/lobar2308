@@ -13,7 +13,7 @@
 <img align="right" title="programeer" height="220" src="https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
 
 <lu>
-<li> Hi, I'm <b>Jakhongir Ruzibaev</b>, Web Developer from Uzbekistan
+<li> Hi, I'm <b>Lobar Hayitmurodova</b>, Web Developer from Uzbekistan
 <br>
 <br>
 <li> 🔬 I'm currently studying for a bachelor degree in <br>
